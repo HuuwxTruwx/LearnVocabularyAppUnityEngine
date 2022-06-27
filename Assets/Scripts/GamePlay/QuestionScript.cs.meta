@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07ae73cac0cd7344f9b624711b9d39ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vocaScriptAble: {fileID: 11400000, guid: 437b5f13d8b9ae344937e0ce37a81c7a, type: 2}
+  - vocaController: {instanceID: 0}
+  - Question: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
